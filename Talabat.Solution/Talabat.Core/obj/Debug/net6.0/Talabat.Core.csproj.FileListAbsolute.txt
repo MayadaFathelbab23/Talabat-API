@@ -1,0 +1,81 @@
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 01\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 01\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 01\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 01\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 01\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 01\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 01\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 01\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 01\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 01\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 01\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 02\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 02\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 02\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 02\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 02\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 02\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 02\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 02\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 02\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 02\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 02\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 03\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 03\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 03\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 03\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 03\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 03\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 03\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 03\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 03\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 03\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 03\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 04\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 04\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 04\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 04\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 04\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 04\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 04\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 04\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 04\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 04\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 04\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+F:\ASP.net(Route)\Ahmed Naser\06 ASP.NET Api\Session 04\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 04\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 04\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 04\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 04\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 04\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 04\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 04\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 04\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 04\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 04\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 04\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 04\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 05\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 05\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 05\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 05\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 05\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 05\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 05\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 05\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 05\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 05\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 05\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 05\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 06\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 06\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 06\Talabat.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 06\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 06\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 06\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 06\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 06\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 06\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 06\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 06\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+F:\ASP.net(Route)\Aliaa Tarek\06 API\Session 06\Talabat.Solution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
